@@ -31,7 +31,7 @@ INSERT INTO customer VALUES ( 10, 'Preethi', 'Bangalore', 100, 1000 );
 INSERT INTO customer VALUES ( 11, 'Vivek',   'Mangalore', 300, 1000 );
 INSERT INTO customer VALUES ( 12, 'Bhaskar', 'Chennai',   400, 2000 );
 INSERT INTO customer VALUES ( 13, 'Chethan', 'Bangalore', 200, 2000 );
-INSERT INTO customer VALUES ( 14, 'Mamatha', 'Bangalore', 400, 3000 );
+INSERT INTO customer VALUES ( 14, 'Mamtha',  'Bangalore', 400, 3000 );
 
 INSERT INTO orders VALUES ( 50, 5000, '04-May-17', 10, 1000 );
 INSERT INTO orders VALUES ( 51,  450, '20-Jan-17', 10, 2000 );
